@@ -6,7 +6,11 @@
 
   <groupId>com.yimilan.sonar.plugin</groupId>
   <artifactId>sonar-yimilan-plugin</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>sonar-yimilanjava-plugin</module>
+  </modules>
   <name>sonar-yimilan-plugin</name>
 
   <properties>
