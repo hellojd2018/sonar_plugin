@@ -7,11 +7,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sonar-yimilanjava-plugin" />
+        <module name="sonar-yimilanpmd-plugin" />
+        <module name="sonaryimilan-pmd-plugin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="sonar-yimilan-plugin" target="1.8" />
       <module name="sonar-yimilanjava-plugin" target="1.8" />
+      <module name="sonar-yimilanpmd-plugin" target="1.8" />
+      <module name="sonaryimilan-pmd-plugin" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -126,7 +126,7 @@
                 <configuration>
                     <pluginKey>java-custom</pluginKey>
                     <pluginName>Java Custom Rules</pluginName>
-                    <pluginClass>com.yimilan.sonar.plugin.JavaRulesPlugin</pluginClass>
+                    <pluginClass>org.sonar.plugins.JavaRulesPlugin</pluginClass>
                     <sonarLintSupported>true</sonarLintSupported>
                     <sonarQubeMinVersion>6.7</sonarQubeMinVersion>
                 </configuration>

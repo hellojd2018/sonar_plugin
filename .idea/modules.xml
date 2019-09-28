@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/sonar-yimilan-plugin.iml" filepath="$PROJECT_DIR$/sonar-yimilan-plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/sonar-yimilanjava-plugin/sonar-yimilanjava-plugin.iml" filepath="$PROJECT_DIR$/sonar-yimilanjava-plugin/sonar-yimilanjava-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sonar-yimilanpmd-plugin/sonar-yimilanpmd-plugin.iml" filepath="$PROJECT_DIR$/sonar-yimilanpmd-plugin/sonar-yimilanpmd-plugin.iml" />
     </modules>
   </component>
 </project>
